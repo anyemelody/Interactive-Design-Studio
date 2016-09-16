@@ -12,7 +12,3 @@ The questions need to be considered when design for interaction.
 6. easy to learn.
 
 
-
-
-Step3: Find one well-designed interaction and a poorly-designed one.
-The elevator the Tisch School of Arts is a bad
